@@ -1,1 +1,1 @@
-# cbwu
+# This is the public repo of a new yet exclusive project
